@@ -21,3 +21,7 @@ This interactive Excel dashboard was designed to visualize salary-related data a
 This is a detailed exploratory analysis of salary datasets aimed at uncovering trends, patterns, and key insights.  
 [Checkout my work here](Project_2)  
 <img width="1096" height="361" alt="Excel Salary Analysis" src="https://github.com/user-attachments/assets/e2a1fd96-3aa5-4010-9d1e-eb0c673d92f2" />
+
+## 🤝 Connect With Me
+I am an aspiring data analyst passionate about transforming data into valuable insights. This project reflects my growing skills in data analytics and dashboard development using Excel.  
+I am continuously learning and working on new projects to strengthen my analytical and visualization abilities. Feedback, suggestions, and collaboration opportunities are welcome!
