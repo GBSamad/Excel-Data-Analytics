@@ -13,11 +13,11 @@ Through these projects, I practiced:
 ## Salary Dashboard
 
 This interactive Excel dashboard was designed to visualize salary-related data and provide quick insights into compensation trends across different roles, schedule types, and locations.  
-[Checkout my work here](Project1)  
+[Checkout my work here](Project_1)  
 <img width="1577" height="586" alt="Excel Salary Dashboard" src="https://github.com/user-attachments/assets/ad508b16-4283-47c4-b517-448d9fc016a8" />  
 
 ## Salary Analysis
 
 This is a detailed exploratory analysis of salary datasets aimed at uncovering trends, patterns, and key insights.  
-[Checkout my work here](Project2)  
+[Checkout my work here](Project_2)  
 <img width="1096" height="361" alt="Excel Salary Analysis" src="https://github.com/user-attachments/assets/e2a1fd96-3aa5-4010-9d1e-eb0c673d92f2" />
