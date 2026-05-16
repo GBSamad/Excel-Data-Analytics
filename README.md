@@ -1,6 +1,7 @@
-# Data Analytics Studies  
+# Excel Data Analytics
 
-📊Welcome to my Data Analytics Studies Repository!  
+📊Welcome to my Excel Data Analytics Repository!  
+
 This repo contains two Excel-based data analytics projects completed during my learning journey as an aspiring data analyst. These projects focus on salary trends, salary visualization, and data-driven insights using Microsoft Excel.
 
 Through these projects, I practiced:
@@ -24,4 +25,5 @@ This is a detailed exploratory analysis of salary datasets aimed at uncovering t
 
 ## 🤝 Connect With Me
 I am an aspiring data analyst passionate about transforming data into valuable insights. This project reflects my growing skills in data analytics and dashboard development using Excel.  
+
 I am continuously learning and working on new projects to strengthen my analytical and visualization abilities. Feedback, suggestions, and collaboration opportunities are welcome!
