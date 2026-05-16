@@ -96,6 +96,7 @@ IF(
 - **📈 Structured Data Arrangement:** Organized job titles in descending order based on salary values for clearer interpretation and easier analysis.
 - **💡 Key Observations:** The visualization highlights salary patterns, showing that Senior positions and Engineering roles generally offer higher salaries compared to Analyst roles.
 
+#### 🗺️ Country Median Salaries - Map Chart
 <img width="470" height="311" alt="country" src="https://github.com/user-attachments/assets/5b05230d-b087-4c0a-a241-d718a827e11b" />  
 
 - **🛠️ Excel Mapping Tools:** Used Excel’s map chart functionality to display median salary data across different countries worldwide.
