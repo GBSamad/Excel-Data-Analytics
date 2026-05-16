@@ -9,5 +9,25 @@ The goal of this project is to transform raw salary data into meaningful insight
 
 This project was completed as part of my practical learning journey in data analytics using Microsoft Excel.  
 
-## Dashboard File
-You can explore my final dashboard here:
+### Dashboard File
+You can explore my final dashboard here: [Salary_Dashboard](Salary_Dashboard)
+
+### Excel Skills Used
+
+- **🧮 Formulas and Functions**
+- **✅ Data Validation**
+- **📊 Charts**
+
+### Data Jobs Dataset
+
+The dataset used for this project contains real-world data science job information from 2023. It contains salary-related information such as:  
+
+- **👷‍♂️ Job titles**
+- **💰 Salary amounts**
+- **🤹‍♂️ Skill requirements**
+- **📅 Schedule types**
+- **📍 Locations**
+
+## Dashboard Build
+
+### 🧮Formulas and Functions
